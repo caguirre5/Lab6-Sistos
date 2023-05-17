@@ -1,0 +1,310 @@
+Iniciando thread 0
+Iniciando thread 1
+Iniciando thread 2
+Iniciando iteracion 0
+0 - Semaforo abierto con exito.
+Iniciando iteracion 0
+2 - Semaforo abierto con exito.
+Iniciando thread 3
+Iniciando thread 4
+Iniciando iteracion 0
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+2 - Semaforo abierto con exito.
+3 - Semaforo abierto con exito.
+Iniciando thread 5
+Iniciando thread 6
+Iniciando thread 7
+Iniciando thread 8
+Iniciando thread 9
+Iniciando iteracion 0
+4 - Semaforo abierto con exito.
+Iniciando iteracion 0
+7 - Semaforo abierto con exito.
+Iniciando iteracion 0
+6 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+Iniciando iteracion 0
+9 - Semaforo abierto con exito.
+Iniciando iteracion 0
+1 - Semaforo abierto con exito.
+Iniciando iteracion 0
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+3 - Semaforo abierto con exito.
+8 - Semaforo abierto con exito.
+0 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+2 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+4 - Semaforo abierto con exito.
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+3 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+2 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+9 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+9 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+7 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+4 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+1 - Semaforo abierto con exito.
+Iniciando iteracion 0
+5 - Semaforo abierto con exito.
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+6 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+0 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+8 - Semaforo abierto con exito.
+3 - Buenos dias! Recurso usado
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+5 - Semaforo abierto con exito.
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+6 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+4 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+1 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+9 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+4 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+0 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+9 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+1 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+7 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+2 - Semaforo abierto con exito.
+Iniciando iteracion 3
+3 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+7 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+1 - Semaforo abierto con exito.
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+3 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+1 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+2 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+9 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+9 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+3 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+2 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+6 - Semaforo abierto con exito.
+8 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+2 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 2
+5 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+6 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+6 - Semaforo abierto con exito.
+2 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+5 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+2 - Semaforo abierto con exito.
+Iniciando iteracion 7
+9 - Semaforo abierto con exito.
+Iniciando iteracion 5
+4 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+4 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+5 - Semaforo abierto con exito.
+2 - Buenos dias! Recurso usado
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+9 - Semaforo abierto con exito.
+4 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+9 - Semaforo abierto con exito.
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+3 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+0 - Semaforo abierto con exito.
+1 - Semaforo abierto con exito.
+9 - Buenos dias! Recurso usado
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+5 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+4 - Semaforo abierto con exito.
+4 - Buenos dias! Recurso usado
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+3 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+5 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+0 - Semaforo abierto con exito.
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+3 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+7 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+7 - Semaforo abierto con exito.
+3 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+3 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+3 - Buenos dias! Recurso usado
+5 - Semaforo abierto con exito.
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+4 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+5 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+7 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+0 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+5 - Semaforo abierto con exito.
+Iniciando iteracion 7
+1 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+7 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+0 - Semaforo abierto con exito.
+5 - Buenos dias! Recurso usado
+4 - Buenos dias! Recurso usado
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+1 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+7 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+0 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 3
+8 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+7 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+8 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+0 - Semaforo abierto con exito.
+0 - Buenos dias! Recurso usado
+1 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+1 - Semaforo abierto con exito.
+7 - Buenos dias! Recurso usado
+1 - Buenos dias! Recurso usado
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+6 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+8 - Semaforo abierto con exito.
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+6 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 6
+8 - Semaforo abierto con exito.
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+6 - Semaforo abierto con exito.
+6 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+6 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 7
+8 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 8
+8 - Semaforo abierto con exito.
+6 - Buenos dias! Recurso usado
+8 - Buenos dias! Recurso usado
+Iniciando iteracion 9
+8 - Semaforo abierto con exito.
+8 - Buenos dias! Recurso usado

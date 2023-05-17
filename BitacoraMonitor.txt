@@ -1,0 +1,673 @@
+Iniciando thread 0
+Iniciando thread 1
+Iniciando thread 2
+Iniciando thread 3
+Iniciando thread 4
+Iniciando thread 5
+Iniciando thread 6
+Iniciando thread 7
+Iniciando thread 8
+Iniciando thread 9
+Iniciando iteracion 0
+2 - Se consumiran83 recursos.
+Iniciando increase_count
+Terminando increase_count
+2 - Recurso tomado.
+Iniciando iteracion 0
+1 - Se consumiran77 recursos.
+Iniciando increase_count
+Terminando increase_count
+1 - Recurso tomado.
+Iniciando iteracion 0
+8 - Se consumiran93 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+1 - Se consumiran86 recursos.
+Iniciando iteracion 0
+Iniciando increase_count
+Terminando increase_count
+1 - Recurso tomado.
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+2 - Se consumiran49 recursos.
+Iniciando increase_count
+Se necesitan 49 recursos pero solo nos rolaron 14
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+8 - Se consumiran21 recursos.
+Iniciando increase_count
+Se necesitan 21 recursos pero solo nos rolaron 14
+9 - Se consumiran62 recursos.
+Iniciando increase_count
+Se necesitan 62 recursos pero solo nos rolaron 14
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+1 - Se consumiran27 recursos.
+Iniciando increase_count
+Terminando increase_count
+1 - Recurso tomado.
+Terminando increase_count
+2 - Recurso tomado.
+Iniciando iteracion 0
+0 - Se consumiran59 recursos.
+Iniciando increase_count
+Se necesitan 59 recursos pero solo nos rolaron 24
+Iniciando iteracion 0
+5 - Se consumiran63 recursos.
+Iniciando increase_count
+Se necesitan 63 recursos pero solo nos rolaron 24
+Iniciando iteracion 0
+7 - Se consumiran26 recursos.
+Iniciando increase_count
+Terminando increase_count
+7 - Recurso tomado.
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+7 - Se consumiran26 recursos.
+Iniciando increase_count
+Terminando increase_count
+7 - Recurso tomado.
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+1 - Se consumiran11 recursos.
+Iniciando increase_count
+Iniciando iteracion 0
+6 - Se consumiran68 recursos.
+Iniciando increase_count
+Iniciando iteracion 0
+4 - Se consumiran67 recursos.
+Iniciando increase_count
+Iniciando iteracion 0
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+7 - Se consumiran82 recursos.
+Iniciando increase_count
+3 - Se consumiran29 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+2 - Se consumiran62 recursos.
+Iniciando increase_count
+Terminando increase_count
+2 - Recurso tomado.
+Terminando increase_count
+1 - Recurso tomado.
+Se necesitan 67 recursos pero solo nos rolaron 6
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+1 - Se consumiran35 recursos.
+Iniciando increase_count
+Se necesitan 29 recursos pero solo nos rolaron 17
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+8 - Se consumiran29 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+Se necesitan 68 recursos pero solo nos rolaron 9
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+8 - Se consumiran22 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+Se necesitan 82 recursos pero solo nos rolaron 16
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+2 - Se consumiran69 recursos.
+Iniciando increase_count
+Terminando increase_count
+4 - Recurso tomado.
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+8 - Se consumiran93 recursos.
+Iniciando increase_count
+Se necesitan 35 recursos pero solo nos rolaron 33
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+4 - Se consumiran56 recursos.
+Iniciando increase_count
+Terminando increase_count
+4 - Recurso tomado.
+Se necesitan 69 recursos pero solo nos rolaron 44
+Se necesitan 93 recursos pero solo nos rolaron 44
+Terminando increase_count
+3 - Recurso tomado.
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+4 - Se consumiran29 recursos.
+Iniciando increase_count
+Se necesitan 29 recursos pero solo nos rolaron 2
+Terminando increase_count
+2 - Recurso tomado.
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+2 - Se consumiran21 recursos.
+Iniciando increase_count
+Se necesitan 21 recursos pero solo nos rolaron 3
+Terminando increase_count
+6 - Recurso tomado.
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+3 - Se consumiran84 recursos.
+Iniciando increase_count
+Se necesitan 84 recursos pero solo nos rolaron 3
+Terminando increase_count
+4 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+6 - Se consumiran98 recursos.
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+4 - Se consumiran24 recursos.
+Iniciando increase_count
+Se necesitan 24 recursos pero solo nos rolaron 16
+Terminando increase_count
+3 - Recurso tomado.
+Iniciando increase_count
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+3 - Se consumiran70 recursos.
+Terminando increase_count
+7 - Recurso tomado.
+Se necesitan 98 recursos pero solo nos rolaron 18
+Iniciando increase_count
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+7 - Se consumiran26 recursos.
+Iniciando increase_count
+Terminando increase_count
+9 - Recurso tomado.
+Se necesitan 70 recursos pero solo nos rolaron 38
+Terminando increase_count
+1 - Recurso tomado.
+Se necesitan 26 recursos pero solo nos rolaron 3
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+Terminando increase_count
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+9 - Se consumiran73 recursos.
+Iniciando increase_count
+Se necesitan 73 recursos pero solo nos rolaron 11
+7 - Recurso tomado.
+Terminando increase_count
+5 - Recurso tomado.
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+1 - Se consumiran56 recursos.
+Iniciando increase_count
+Se necesitan 56 recursos pero solo nos rolaron 3
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+5 - Se consumiran81 recursos.
+Iniciando increase_count
+Se necesitan 81 recursos pero solo nos rolaron 3
+Terminando increase_count
+9 - Recurso tomado.
+7 - Se consumiran96 recursos.
+Iniciando increase_count
+Se necesitan 96 recursos pero solo nos rolaron 3
+Terminando increase_count
+4 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+9 - Se consumiran84 recursos.
+Iniciando increase_count
+Se necesitan 84 recursos pero solo nos rolaron 76
+Terminando increase_count
+3 - Recurso tomado.
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+4 - Se consumiran36 recursos.
+Iniciando increase_count
+Se necesitan 36 recursos pero solo nos rolaron 16
+Terminando increase_count
+9 - Recurso tomado.
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+3 - Se consumiran46 recursos.
+Iniciando increase_count
+Se necesitan 46 recursos pero solo nos rolaron 16
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+9 - Se consumiran29 recursos.
+Iniciando increase_count
+Se necesitan 29 recursos pero solo nos rolaron 8
+Terminando increase_count
+1 - Recurso tomado.
+Terminando increase_count
+4 - Recurso tomado.
+Terminando increase_count
+2 - Recurso tomado.
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+4 - Se consumiran95 recursos.
+Iniciando increase_count
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+2 - Se consumiran82 recursos.
+Iniciando increase_count
+Terminando increase_count
+9 - Recurso tomado.
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+1 - Se consumiran14 recursos.
+Iniciando increase_count
+Se necesitan 14 recursos pero solo nos rolaron 12
+Terminando increase_count
+0 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+9 - Se consumiran34 recursos.
+Iniciando increase_count
+Terminando increase_count
+9 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 1
+0 - Se consumiran43 recursos.
+Iniciando increase_count
+Se necesitan 95 recursos pero solo nos rolaron 66
+Terminando increase_count
+3 - Recurso tomado.
+Se necesitan 82 recursos pero solo nos rolaron 20
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+3 - Se consumiran87 recursos.
+Iniciando increase_count
+Se necesitan 87 recursos pero solo nos rolaron 52
+Terminando increase_count
+1 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+Terminando increase_count
+5 - Recurso tomado.
+9 - Se consumiran78 recursos.
+Iniciando increase_count
+Se necesitan 43 recursos pero solo nos rolaron 5
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+1 - Se consumiran88 recursos.
+Iniciando increase_count
+Se necesitan 88 recursos pero solo nos rolaron 19
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+5 - Se consumiran84 recursos.
+Iniciando increase_count
+Se necesitan 84 recursos pero solo nos rolaron 12
+Se necesitan 78 recursos pero solo nos rolaron 12
+Terminando increase_count
+1 - Recurso tomado.
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+1 - Se consumiran51 recursos.
+Iniciando increase_count
+Se necesitan 51 recursos pero solo nos rolaron 2
+Terminando increase_count
+6 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+6 - Se consumiran99 recursos.
+Iniciando increase_count
+Terminando increase_count
+1 - Recurso tomado.
+Se necesitan 99 recursos pero solo nos rolaron 6
+Terminando increase_count
+0 - Recurso tomado.
+1 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+1 - Se consumiran76 recursos.
+Iniciando increase_count
+Se necesitan 76 recursos pero solo nos rolaron 57
+Terminando increase_count
+5 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 2
+0 - Se consumiran39 recursos.
+Iniciando increase_count
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+5 - Se consumiran12 recursos.
+Iniciando increase_count
+Terminando increase_count
+7 - Recurso tomado.
+Se necesitan 39 recursos pero solo nos rolaron 4
+Se necesitan 12 recursos pero solo nos rolaron 4
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+7 - Se consumiran86 recursos.
+Iniciando increase_count
+Se necesitan 86 recursos pero solo nos rolaron 6
+Terminando increase_count
+5 - Recurso tomado.
+Terminando increase_count
+2 - Recurso tomado.
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+5 - Se consumiran95 recursos.
+Iniciando increase_count
+Se necesitan 95 recursos pero solo nos rolaron 18
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+Terminando increase_count
+5 - Recurso tomado.
+2 - Se consumiran34 recursos.
+Iniciando increase_count
+Se necesitan 34 recursos pero solo nos rolaron 5
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+5 - Se consumiran78 recursos.
+Iniciando increase_count
+Se necesitan 78 recursos pero solo nos rolaron 24
+Terminando increase_count
+1 - Recurso tomado.
+1 - BUenos dias! Recurso usado
+Terminando increase_count
+7 - Recurso tomado.
+Terminando increase_count
+4 - Recurso tomado.
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+7 - Se consumiran2 recursos.
+Iniciando increase_count
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+4 - Se consumiran17 recursos.
+Iniciando increase_count
+Terminando increase_count
+4 - Recurso tomado.
+Terminando increase_count
+0 - Recurso tomado.
+Terminando increase_count
+2 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+0 - Se consumiran1 recursos.
+Iniciando increase_count
+Terminando increase_count
+0 - Recurso tomado.
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+2 - Se consumiran86 recursos.
+Iniciando increase_count
+Terminando increase_count
+2 - Recurso tomado.
+Terminando increase_count
+7 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+0 - Se consumiran89 recursos.
+Iniciando increase_count
+Se necesitan 89 recursos pero solo nos rolaron 12
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+7 - Se consumiran44 recursos.
+Iniciando increase_count
+Se necesitan 44 recursos pero solo nos rolaron 14
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+4 - Se consumiran19 recursos.
+Iniciando increase_count
+Terminando increase_count
+4 - Recurso tomado.
+Terminando increase_count
+5 - Recurso tomado.
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+2 - Se consumiran31 recursos.
+Iniciando increase_count
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+5 - Se consumiran17 recursos.
+Iniciando increase_count
+Se necesitan 17 recursos pero solo nos rolaron 7
+Se necesitan 31 recursos pero solo nos rolaron 7
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+4 - Se consumiran97 recursos.
+Iniciando increase_count
+Se necesitan 97 recursos pero solo nos rolaron 7
+Terminando increase_count
+8 - Recurso tomado.
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+8 - Se consumiran81 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+Terminando increase_count
+5 - Recurso tomado.
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+5 - Se consumiran27 recursos.
+Iniciando increase_count
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+8 - Se consumiran67 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+8 - Se consumiran97 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+Se necesitan 27 recursos pero solo nos rolaron 3
+8 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+8 - Se consumiran86 recursos.
+Iniciando increase_count
+Terminando increase_count
+8 - Recurso tomado.
+Terminando increase_count
+3 - Recurso tomado.
+8 - BUenos dias! Recurso usado
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+3 - Se consumiran83 recursos.
+Iniciando increase_count
+Se necesitan 83 recursos pero solo nos rolaron 22
+Terminando increase_count
+9 - Recurso tomado.
+Iniciando iteracion 9
+8 - Se consumiran24 recursos.
+Iniciando increase_count
+Se necesitan 24 recursos pero solo nos rolaron 22
+Terminando increase_count
+3 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+9 - Se consumiran71 recursos.
+Iniciando increase_count
+Se necesitan 71 recursos pero solo nos rolaron 17
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+3 - Se consumiran32 recursos.
+Iniciando increase_count
+Terminando increase_count
+3 - Recurso tomado.
+Terminando increase_count
+8 - Recurso tomado.
+Terminando increase_count
+7 - Recurso tomado.
+Terminando increase_count
+5 - Recurso tomado.
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+3 - Se consumiran68 recursos.
+Iniciando increase_count
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+5 - Se consumiran8 recursos.
+Iniciando increase_count
+Terminando increase_count
+5 - Recurso tomado.
+8 - BUenos dias! Recurso usado
+Terminando increase_count
+9 - Recurso tomado.
+Se necesitan 68 recursos pero solo nos rolaron 21
+7 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+7 - Se consumiran49 recursos.
+Iniciando increase_count
+5 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+5 - Se consumiran96 recursos.
+Iniciando increase_count
+Se necesitan 96 recursos pero solo nos rolaron 29
+Terminando increase_count
+2 - Recurso tomado.
+Terminando increase_count
+3 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+9 - Se consumiran45 recursos.
+Iniciando increase_count
+Se necesitan 49 recursos pero solo nos rolaron 1
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+3 - Se consumiran46 recursos.
+Iniciando increase_count
+Terminando increase_count
+3 - Recurso tomado.
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+2 - Se consumiran21 recursos.
+Iniciando increase_count
+Terminando increase_count
+2 - Recurso tomado.
+3 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+3 - Se consumiran79 recursos.
+Iniciando increase_count
+Terminando increase_count
+3 - Recurso tomado.
+3 - BUenos dias! Recurso usado
+Terminando increase_count
+7 - Recurso tomado.
+7 - BUenos dias! Recurso usado
+2 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+7 - Se consumiran28 recursos.
+Iniciando increase_count
+Terminando increase_count
+5 - Recurso tomado.
+Se necesitan 45 recursos pero solo nos rolaron 4
+5 - BUenos dias! Recurso usado
+Terminando increase_count
+9 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+9 - Se consumiran93 recursos.
+Iniciando increase_count
+Se necesitan 93 recursos pero solo nos rolaron 72
+Terminando increase_count
+7 - Recurso tomado.
+7 - BUenos dias! Recurso usado
+Terminando increase_count
+6 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 3
+6 - Se consumiran64 recursos.
+Iniciando increase_count
+Se necesitan 64 recursos pero solo nos rolaron 3
+Terminando increase_count
+4 - Recurso tomado.
+4 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+4 - Se consumiran14 recursos.
+Iniciando increase_count
+Se necesitan 14 recursos pero solo nos rolaron 11
+Terminando increase_count
+0 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+0 - Se consumiran56 recursos.
+Iniciando increase_count
+Se necesitan 56 recursos pero solo nos rolaron 22
+Terminando increase_count
+4 - Recurso tomado.
+Terminando increase_count
+6 - Recurso tomado.
+4 - BUenos dias! Recurso usado
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 4
+6 - Se consumiran27 recursos.
+Iniciando increase_count
+Terminando increase_count
+6 - Recurso tomado.
+Terminando increase_count
+0 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 5
+6 - Se consumiran36 recursos.
+Iniciando increase_count
+Terminando increase_count
+6 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+0 - Se consumiran51 recursos.
+Iniciando increase_count
+Terminando increase_count
+0 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 6
+6 - Se consumiran28 recursos.
+Iniciando increase_count
+Terminando increase_count
+6 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+0 - Se consumiran7 recursos.
+Iniciando increase_count
+Terminando increase_count
+0 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 7
+6 - Se consumiran21 recursos.
+Iniciando increase_count
+Terminando increase_count
+6 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+0 - Se consumiran95 recursos.
+Iniciando increase_count
+Se necesitan 95 recursos pero solo nos rolaron 79
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 8
+6 - Se consumiran29 recursos.
+Iniciando increase_count
+Se necesitan 29 recursos pero solo nos rolaron 7
+Terminando increase_count
+9 - Recurso tomado.
+9 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+9 - Se consumiran35 recursos.
+Iniciando increase_count
+Terminando increase_count
+9 - Recurso tomado.
+Terminando increase_count
+6 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+6 - Se consumiran28 recursos.
+Iniciando increase_count
+Terminando increase_count
+6 - Recurso tomado.
+6 - BUenos dias! Recurso usado
+9 - BUenos dias! Recurso usado
+Terminando increase_count
+0 - Recurso tomado.
+0 - BUenos dias! Recurso usado
+Iniciando iteracion 9
+0 - Se consumiran28 recursos.
+Iniciando increase_count
+Terminando increase_count
+0 - Recurso tomado.
+0 - BUenos dias! Recurso usado
